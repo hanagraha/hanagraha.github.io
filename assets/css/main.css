@@ -3236,31 +3236,31 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #D6CC99;
+			background-color: #535C91;
 		}
 
 		.wrapper.style1 {
-			background-color: #001524;
+			background-color: #070F2B;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #001524;
+			background-color: #070F2B;
 		}
 
 		.wrapper.style2 {
-			background-color: #445D48;
+			background-color: #1B1A55;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #445D48;
+			background-color: #1B1A55;
 		}
 
 		.wrapper.style3 {
-			background-color: #D6CC99;
+			background-color: #535C91;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #D6CC99;
+			background-color: #535C91;
 		}
 
 		.wrapper.fullscreen {
@@ -3524,7 +3524,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #35A29F;
 		cursor: default;
 		height: 100vh;
 		left: 0;
