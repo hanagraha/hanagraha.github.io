@@ -3528,7 +3528,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #35A29F;
+		background: #D4ADFC;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3765,7 +3765,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #D4ADFC;
 			}
 
 			#sidebar nav a:after {
